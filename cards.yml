@@ -1,0 +1,13 @@
+               
+build:
+   version: "3.0"
+   
+   
+cards:
+   message: "Contact Details for cards Team for any support issues"
+   contactDetails:
+      name: "SenthilVinayaham"
+      email: "senthilvinayaham@gmail.com"
+   onCallSupport:
+      (777) 111-2222
+      (888) 333-4444
